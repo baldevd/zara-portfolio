@@ -3,11 +3,11 @@ import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
 import PublicationCard from "../../components/publicationsCard/PublicationCard";
-import Button from "../../components/button/Button";
+// import Button from "../../components/button/Button";
 import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
 import {
-  greeting,
+  // greeting,
   projectsHeader,
   publicationsHeader,
   publications,
@@ -63,8 +63,7 @@ class Projects extends Component {
           theme={theme}
         /> */}
 
-        {/* Publications  */}
-        {/* {publications.data.length > 0 ? (
+        {publications.data.length > 0 ? (
           <div className="basic-projects">
             <Fade bottom duration={2000} distance="40px">
               <div className="publications-heading-div">
@@ -85,13 +84,13 @@ class Projects extends Component {
               </div>
             </Fade>
           </div>
-        ) : null} */}
+        ) : null}
 
-        {/* <div className="repo-cards-div-main">
+        <div className="repo-cards-div-main">
           {publications.data.map((pub) => {
             return <PublicationCard pub={pub} theme={theme} />;
           })}
-        </div> */}
+        </div>
 
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />

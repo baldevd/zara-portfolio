@@ -1,5 +1,6 @@
 <h1 align="center"> Digital Master Portfolio</h1> 
-<h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio</h3>
+<h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio</h3
+
 # Sections 📚
 
 ✔️ Summary and About me\
@@ -10,7 +11,6 @@
 ✔️ Blogs\
 ✔️ Education\
 ✔️ Contact me
-
 
 # Clone and Use 📋
 
@@ -142,10 +142,10 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 - Run `npm run deploy` to build and create a branch called `gh-pages`. It will push the `build` files to that branch.
 - The last step in deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
 
-<!-- Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
+<!-- Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
 
-<p align="center"> 
+<p align="center">
     <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
     <img src="http://img.youtube.com/vi/IwBS39TOmpA/0.jpg"></img>
   </a>
