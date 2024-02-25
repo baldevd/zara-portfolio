@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zara-portfolio/precache-manifest.f6a40306fe428e1ce72ce17e7e0beebf.js"
+  "/zara-portfolio/precache-manifest.2ce5af6694242d5d37afeed028cd83ad.js"
 );
 
 self.addEventListener('message', (event) => {

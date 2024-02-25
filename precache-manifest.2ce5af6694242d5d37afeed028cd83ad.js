@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ad95b90d765540cbe947374820ce0c3",
+    "revision": "8417def41c0c8040f995317c9c72bc18",
     "url": "/zara-portfolio/index.html"
   },
   {
-    "revision": "33bdd0caae3f27792287",
-    "url": "/zara-portfolio/static/css/main.2159b1ee.chunk.css"
+    "revision": "49f1c78fe7d54934e6aa",
+    "url": "/zara-portfolio/static/css/main.904f8cde.chunk.css"
   },
   {
-    "revision": "19100e5cd2821c3b13f6",
-    "url": "/zara-portfolio/static/js/2.d0dd5441.chunk.js"
+    "revision": "badb19d402a69c1979f6",
+    "url": "/zara-portfolio/static/js/2.e8984903.chunk.js"
   },
   {
-    "revision": "33bdd0caae3f27792287",
-    "url": "/zara-portfolio/static/js/main.1a6e30be.chunk.js"
+    "revision": "49f1c78fe7d54934e6aa",
+    "url": "/zara-portfolio/static/js/main.db98666e.chunk.js"
   },
   {
     "revision": "6aa4012ce725ae791b89",
