@@ -5,7 +5,7 @@
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="http://hits.dwyl.com/ashutosh1919/masterPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg" /></a>
   <a href="https://nodejs.org/en/blog/release/v12.13.0/"><img alt="NodeJS" src="https://img.shields.io/badge/node-12.14.1-important?style=flat-square" /></a>
   <a href="https://www.npmjs.com/package/npm/v/6.13.4"><img alt="NPM" src="https://img.shields.io/badge/npm-6.13.7-blueviolet?style=flat-square" /></a>
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-:star: Star us on GitHub — it helps!
+:star: Star us on GitHub — it helps! -->
 
 # Sections 📚
 
@@ -200,7 +200,7 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
-# Contributing 💡
+<!-- # Contributing 💡
 
 If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/ashutosh1919/masterPortfolio/pulls) or [issue](https://github.com/ashutosh1919/masterPortfolio/issues).
 
@@ -261,4 +261,4 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 # References 👏🏻
 
 - Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
-- The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor.
+- The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor. -->
