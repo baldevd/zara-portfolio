@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "zara-portfolio",
-  "homepage": "https://baldevd.github.io",
+  "homepage": "https://baldevd.github.io/zara-portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
